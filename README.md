@@ -1,0 +1,2 @@
+# RestAssuredSample
+RestAssured Example code
